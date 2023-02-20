@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Avoid creating -hub dir without processing images (#8334)
