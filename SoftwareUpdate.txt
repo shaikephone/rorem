@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
