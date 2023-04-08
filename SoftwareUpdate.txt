@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Fixed RTDETR GFLOPs bug (#7309)
