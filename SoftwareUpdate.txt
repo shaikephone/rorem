@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
