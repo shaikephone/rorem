@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add visuals in guides/distance-calculation.md (#7876)
