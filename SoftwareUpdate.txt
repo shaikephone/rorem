@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
