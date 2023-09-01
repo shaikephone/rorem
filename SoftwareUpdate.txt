@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Python refactorings and simplifications (#7549)
