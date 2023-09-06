@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+New HUB Cloud Training docs page (#8174)
