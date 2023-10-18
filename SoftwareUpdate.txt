@@ -1,1 +1,1 @@
-added badges (#45)
+fix export tensorrt with dynamic size
