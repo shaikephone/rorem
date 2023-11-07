@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Hold failed upload metrics and upload with next upload metrics (#8513)
