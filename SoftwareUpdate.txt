@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Fix ONNX GPU inference bug (#6840)
