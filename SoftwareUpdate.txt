@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
