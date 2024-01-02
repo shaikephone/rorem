@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update Discord and Contributing Guide URLs (#9270)
