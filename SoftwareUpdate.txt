@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
