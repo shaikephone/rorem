@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Tracker: clean up GMC (#8003)
