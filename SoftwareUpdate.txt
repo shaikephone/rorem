@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add PaddlePaddle Docs Integrations Page (#8858)
