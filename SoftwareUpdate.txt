@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+OpenVino 2024.0.0 (#8726)
