@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
