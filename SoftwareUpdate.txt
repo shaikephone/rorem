@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+New HUB Cloud Training docs page (#8174)
