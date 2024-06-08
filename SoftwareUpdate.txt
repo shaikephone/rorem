@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Update OpenVINO INT8 export (#7515)
