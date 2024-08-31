@@ -1,1 +1,1 @@
-fix print val map
+Elaborate Train and Predict mode docs arguments (#8137)
